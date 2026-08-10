@@ -1,4 +1,11 @@
-# Dream
+ # Dream
 
 My dream is to become a Software Engineer.
-I want to build useful software and solve real-world problems.
+
+# Bottleneck
+
+The biggest obstacle preventing me from achieving my dream is lack of experience and consistent practice.
+
+# Overcome
+
+I will practice programming every day, build projects, improve my skills, and stay consistent.
